@@ -1,2 +1,0 @@
-# Capstone-Improving-Efficacy-and-Efficiency-of-Restaurant-Recommendation-Mechanism
-Aim of the project is to develop a robust and dynamic recommendation system for restaurant selection mechanism.  The project is focused towards understanding the current methodologies in the available options and analysing the gaps and challenges in the current scenario and mitigating the identified gaps to cater to customers’ dynamic palettes.
